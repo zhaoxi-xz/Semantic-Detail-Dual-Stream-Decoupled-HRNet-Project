@@ -1,0 +1,4 @@
+name,r,g,b
+non_greenhouse,0,0,0
+plastic_greenhouse,1,1,1
+glass_greenhouse,2,2,2
