@@ -12,7 +12,7 @@ If you use this code, please cite the corresponding manuscript.
 - **Manuscript title**: Frequency-Domain Dual-Stream Decoupling for Fine-Grained Segmentation of Agricultural Greenhouses in High-Resolution Remote Sensing Imagery
 - **Journal**: Submitted to *The Visual Computer*
 - **Code repository**: [Semantic-Detail-Dual-Stream-Decoupled-HRNet-Project](https://github.com/zhaoxi-xz/Semantic-Detail-Dual-Stream-Decoupled-HRNet-Project)
-- **Archived version / DOI**: To be updated after Zenodo archiving.
+- **Archived version / DOI**: (https://doi.org/10.5281/zenodo.20048315)
 - **Task**: Fine-grained semantic segmentation of agricultural greenhouses
 - **Classes**: background, plastic arched greenhouse, solar greenhouse
 ## Project Overview
@@ -300,6 +300,9 @@ If you use this repository, please cite our manuscript:
   author={Gao, Xiaozhong and Zhang, Fan and Wang, Chunshan and Song, Shaokang and Cai, Zhaokun and Zhang, Jing and Zhang, Shunyao and Wang, Hailong},
   journal={The Visual Computer},
   year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.20048315},
+  url={https://doi.org/10.5281/zenodo.20048315}
   note={Manuscript under review}
 }
 ```
