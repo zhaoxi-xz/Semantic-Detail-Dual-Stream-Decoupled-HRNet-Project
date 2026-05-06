@@ -1,0 +1,56 @@
+{
+  "title": "Frequency-Domain Dual-Stream Decoupling for Fine-Grained Segmentation of Agricultural Greenhouses in High-Resolution Remote Sensing Imagery",
+  "upload_type": "software",
+  "description": "Official implementation of the SD-HRNet model for fine-grained semantic segmentation of agricultural greenhouses in high-resolution remote sensing imagery. The repository includes training, testing, frequency-domain analysis, ablation experiments, and visualization scripts used in the manuscript submitted to The Visual Computer.",
+  "creators": [
+    {
+      "name": "Gao, Xiaozhong",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Zhang, Fan",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Wang, Chunshan",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Song, Shaokang",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Cai, Zhaokun",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Zhang, Jing",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Zhang, Shunyao",
+      "affiliation": "Hebei Agricultural University"
+    },
+    {
+      "name": "Wang, Hailong",
+      "affiliation": "Hebei Agricultural University"
+    }
+  ],
+  "keywords": [
+    "remote sensing",
+    "semantic segmentation",
+    "greenhouse segmentation",
+    "frequency-domain analysis",
+    "dual-stream network",
+    "HRNet",
+    "visual computing"
+  ],
+  "license": "other-open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/zhaoxi-xz/Semantic-Detail-Dual-Stream-Decoupled-HRNet-Project",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

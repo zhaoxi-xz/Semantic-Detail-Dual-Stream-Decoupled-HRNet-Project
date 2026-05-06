@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Frequency-Domain Dual-Stream Decoupling for Fine-Grained Segmentation of Agricultural Greenhouses in High-Resolution Remote Sensing Imagery"
+message: "If you use this software, please cite the corresponding manuscript."
+type: software
+authors:
+  - family-names: Gao
+    given-names: Xiaozhong
+  - family-names: Zhang
+    given-names: Fan
+  - family-names: Wang
+    given-names: Chunshan
+  - family-names: Song
+    given-names: Shaokang
+  - family-names: Cai
+    given-names: Zhaokun
+  - family-names: Zhang
+    given-names: Jing
+  - family-names: Zhang
+    given-names: Shunyao
+  - family-names: Wang
+    given-names: Hailong
+repository-code: "https://github.com/zhaoxi-xz/Semantic-Detail-Dual-Stream-Decoupled-HRNet-Project"
+abstract: "Official implementation of SD-HRNet for fine-grained semantic segmentation of agricultural greenhouses in high-resolution remote sensing imagery."
+keywords:
+  - remote sensing
+  - semantic segmentation
+  - greenhouse segmentation
+  - frequency-domain analysis
+  - dual-stream network
+  - HRNet
+  - visual computing
+license: "other-open"
