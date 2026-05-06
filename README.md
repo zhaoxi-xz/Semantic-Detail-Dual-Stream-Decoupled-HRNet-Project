@@ -44,7 +44,7 @@ For RGB label maps, the color encoding is:
 | Background | 0 | 0 | 0 |
 | Plastic arched greenhouse | 1 | 1 | 1 |
 | Solar greenhouse | 2 | 2 | 2 |
-```
+
 ## Core Files Description
 
 ### 1. Data Processing and Analysis
